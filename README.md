@@ -2,7 +2,8 @@
 
 A premium, performance-optimized scroll animation experience built with **Next.js**, **GSAP**, and **Lenis**. This project features a unique "falling debris" effect where text components dynamically shed architectural layers as they enter the viewport.
 
-![Project Preview](https://github.com/user-attachments/assets/da2b1b3a-8606-4ec9-b8ac-e71e192c4e21) <!-- Placeholder for actual preview if available -->
+<img width="1920" height="1080" alt="Screenshot (241)" src="https://github.com/user-attachments/assets/aaf23785-1717-4ba1-b861-b61e0141d4a4" />
+
 
 ## ✨ Key Features
 
